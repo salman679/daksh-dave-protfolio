@@ -1,7 +1,7 @@
 
 # Portfolio Website
 
-This is the final version of the portfolio website created for [Client's Name]. Below are the details and instructions for setting up and deploying the website on Netlify.
+This is the final version of the portfolio website created for Daksh Dave. Below are the details and instructions for setting up and deploying the website on Netlify.
 
 ## Features
 - Responsive design optimized for various devices.
